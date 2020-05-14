@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'Batta Quath';
+    src: url('/fonts/BattaQuath.woff2') format('woff2'),
+        url('/fonts/BattaQuath.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'sweet purple';
+    src: url('/fonts/sweetpurple.woff2') format('woff2'),
+        url('/fonts/sweetpurple.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'High Beasty';
+    src: url('/fonts/HighBeasty.woff2') format('woff2'),
+        url('/fonts/HighBeasty.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Dear Sunshine';
+    src: url('/fonts/DearSunshine.woff2') format('woff2'),
+        url('/fonts/DearSunshine.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cherolina';
+    src: url('/fonts/Cherolina.woff2') format('woff2'),
+        url('/fonts/Cherolina.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
